@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="300"
+    android:viewportHeight="300">
+
+    <group android:translateX="0" android:translateY="0">
+        <!-- Monitor ECG -->
+        <path
+            android:pathData="M40,50 L260,50 Q270,50 270,60 L270,220 Q270,230 260,230 L40,230 Q30,230 30,220 L30,60 Q30,50 40,50 Z"
+            android:fillColor="#20D0C2"
+            android:strokeWidth="6"
+            android:strokeColor="#000000" />
+
+        <!-- Pantalla ECG -->
+        <path
+            android:pathData="M50,70 L250,70 Q255,70 255,75 L255,205 Q255,210 250,210 L50,210 Q45,210 45,205 L45,75 Q45,70 50,70 Z"
+            android:fillColor="#000000"
+            android:strokeWidth="4"
+            android:strokeColor="#97F0EA" />
+
+        <!-- Línea ECG -->
+        <path
+            android:pathData="M70,140 L95,140 L105,125 L115,155 L125,115 L135,165 L145,130 L155,150 L170,80 L185,190 L195,140 L210,140 L230,140"
+            android:strokeWidth="6"
+            android:strokeColor="#97F0EA"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round"
+            android:fillColor="@android:color/transparent" />
+
+        <!-- Botones del monitor -->
+        <path
+            android:pathData="M70,250 m-10,0 a10,10 0,1 1,20 0 a10,10 0,1 1,-20 0"
+            android:fillColor="#FFFFFF"
+            android:strokeWidth="4"
+            android:strokeColor="#000000" />
+
+        <path
+            android:pathData="M110,250 m-10,0 a10,10 0,1 1,20 0 a10,10 0,1 1,-20 0"
+            android:fillColor="#FFFFFF"
+            android:strokeWidth="4"
+            android:strokeColor="#000000" />
+
+        <path
+            android:pathData="M150,250 m-10,0 a10,10 0,1 1,20 0 a10,10 0,1 1,-20 0"
+            android:fillColor="#FFFFFF"
+            android:strokeWidth="4"
+            android:strokeColor="#000000" />
+    </group>
+</vector>

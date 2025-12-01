@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="300"
+    android:viewportHeight="300">
+
+    <!-- Icono de Glucosa inspirado en la imagen 2 -->
+    <group android:translateX="50" android:translateY="20">
+        <!-- Contorno exterior del medidor -->
+        <path
+            android:pathData="M160,40 L160,180 C160,210 135,235 100,235 C65,235 40,210 40,180 L40,40 C40,25 52,10 70,10 L130,10 C148,10 160,25 160,40 Z"
+            android:fillColor="#20D0C2"
+            android:strokeWidth="8"
+            android:strokeColor="#000000" />
+
+        <!-- Contorno interior del medidor -->
+        <path
+            android:pathData="M140,45 L140,175 C140,197 122,215 100,215 C78,215 60,197 60,175 L60,45 C60,35 68,25 80,25 L120,25 C132,25 140,35 140,45 Z"
+            android:fillColor="#97F0EA"
+            android:strokeWidth="4"
+            android:strokeColor="#000000" />
+
+        <!-- Pantalla del medidor -->
+        <path
+            android:pathData="M70,40 L130,40 L130,110 L70,110 Z"
+            android:fillColor="#20D0C2"
+            android:strokeWidth="6"
+            android:strokeColor="#000000" />
+
+        <!-- Gota de sangre -->
+        <path
+            android:pathData="M100,65 L115,85 C120,95 115,105 100,105 C85,105 80,95 85,85 L100,65 Z"
+            android:fillColor="#FF3333"
+            android:strokeWidth="4"
+            android:strokeColor="#000000" />
+
+        <!-- Botones del medidor -->
+        <path
+            android:pathData="M80,140 m-10,0 a10,10 0,1 1,20 0 a10,10 0,1 1,-20 0"
+            android:fillColor="#FFFFFF"
+            android:strokeWidth="4"
+            android:strokeColor="#000000" />
+
+        <path
+            android:pathData="M120,140 m-10,0 a10,10 0,1 1,20 0 a10,10 0,1 1,-20 0"
+            android:fillColor="#FFFFFF"
+            android:strokeWidth="4"
+            android:strokeColor="#000000" />
+
+        <!-- Tira reactiva -->
+        <path
+            android:pathData="M90,235 L110,235 L110,270 L90,270 Z"
+            android:fillColor="#FFDD66"
+            android:strokeWidth="4"
+            android:strokeColor="#000000" />
+
+        <path
+            android:pathData="M100,265 m-3,0 a3,3 0,1 1,6 0 a3,3 0,1 1,-6 0"
+            android:fillColor="#222222" />
+    </group>
+</vector>

@@ -1,0 +1,164 @@
+# ============================================
+# Telephases - Git Ignore Configuration
+# ============================================
+
+# ===== Scripts y archivos de desarrollo/testing =====
+check_exams.js
+check_tipos_examen.sql
+corregir_rangos_referencia.sql
+create_citas.sql
+create_estados_salud.sql
+fix_calcular_estado.sql
+fix_trigger_estado.sql
+fix_valores_compuestos.sql
+verify_data.js
+analizar_db_local.bat
+authMiddleware.js
+backup_vps_db.sh
+CAMBIOS_DB_Y_SISTEMA.md
+check_entidades.sql
+clean_and_recreate_database.sql
+clean_database_keep_camilo.ps1
+clean_database_keep_camilo.sql
+clean_users.sql
+consultas_analisis_db.sql
+crear_examenes_completo.sql
+create_db_backup.bat
+create_test_user.sql
+create_users_for_entidades.sql
+credenciales_usuarios_entidades.txt
+db_analysis_result.txt
+deploy_to_vps.ps1
+deploy_to_vps.sh
+insert_entidades_salud_colombia.sql
+insert_entidades_salud.sql
+MEJORAS_APK_20250927.md
+MEJORAS_DISENO_PANTALLAS.md
+register_users_to_server.ps1
+reset_database_complete.sql
+restore_db_backup.bat
+restore_db_local.bat
+restore_users_from_cloud.js
+RESUMEN_SISTEMA_COMPLETO.md
+SINCRONIZACION_USUARIOS_IMPLEMENTACION.md
+telephases_backup.sql
+temp_db.db
+extract_db_from_vps.bat
+extract_db_via_sql.bat
+fix_backup.sql
+fix_portal_perms.sh
+DEPLOYMENT.md
+ESQUEMA_BASE_DATOS_TELEPHASES.txt
+
+# ===== Directorios de backup =====
+db_backup/
+db_backup_cloud/
+
+# ===== Archivos SSH/conexiones =====
+sh -p 22 ares@198.46.189.221
+
+# ===== Node.js =====
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log*
+
+# ===== Backend específico =====
+Backend/.env
+Backend/.env.local
+Backend/.env.production
+Backend/logs/
+Backend/*.log
+
+# ===== Frontend =====
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+frontend/.env.production
+frontend/package-lock.json
+
+# ===== Android =====
+*.iml
+.gradle
+local.properties
+.idea/
+.DS_Store
+build/
+captures/
+.externalNativeBuild
+.cxx
+*.apk
+*.ap_
+*.aab
+
+# ===== Gradle =====
+.gradle/
+build/
+gradle/
+gradlew
+gradlew.bat
+
+# ===== Base de datos =====
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+*.sql.backup
+
+# ===== Logs =====
+*.log
+logs/
+
+# ===== Archivos de sistema =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Variables de entorno =====
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# ===== IDE =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ===== Temporales =====
+tmp/
+temp/
+*.tmp
+*.bak
+*.backup
+
+# ===== Certificados y credenciales =====
+*.pem
+*.key
+*.cert
+*.p12
+*.jks
+keystore.properties
+credentials/
+secrets/
+
+# ===== Archivos compilados =====
+*.class
+*.dex
+*.so
+*.o
+*.a
+
+# ===== Archivos de prueba =====
+coverage/
+.nyc_output/
+test-results/

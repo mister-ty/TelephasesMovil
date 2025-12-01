@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="300"
+    android:viewportHeight="300">
+
+    <group android:translateX="15" android:translateY="5">
+        <!-- Tanque de oxígeno -->
+        <path
+            android:pathData="M160,70 L160,240 C160,255 150,265 135,265 L110,265 C95,265 85,255 85,240 L85,70"
+            android:fillColor="#20D0C2"
+            android:strokeWidth="8"
+            android:strokeColor="#000000" />
+
+        <!-- Tapa del tanque -->
+        <path
+            android:pathData="M85,70 L160,70"
+            android:strokeWidth="8"
+            android:strokeColor="#000000"
+            android:fillColor="@android:color/transparent" />
+
+        <!-- Conexión superior -->
+        <path
+            android:pathData="M110,70 L110,50 C110,40 120,35 130,35 L150,35"
+            android:strokeWidth="8"
+            android:strokeColor="#000000"
+            android:fillColor="@android:color/transparent" />
+
+        <!-- Regulador -->
+        <path
+            android:pathData="M150,35 L175,35 C185,35 195,45 195,55 L195,70"
+            android:strokeWidth="8"
+            android:strokeColor="#000000"
+            android:fillColor="@android:color/transparent" />
+
+        <!-- Símbolo O2 -->
+        <path
+            android:pathData="M115,150 C115,135 125,125 140,125 C155,125 165,135 165,150 C165,165 155,175 140,175 C125,175 115,165 115,150 Z"
+            android:fillColor="#FFFFFF"
+            android:strokeWidth="6"
+            android:strokeColor="#000000" />
+
+        <path
+            android:pathData="M135,140 L135,160 M145,140 L145,160 M135,150 L145,150"
+            android:strokeWidth="4"
+            android:strokeColor="#000000"
+            android:strokeLineCap="round" />
+
+        <!-- Marcas de nivel -->
+        <path
+            android:pathData="M85,120 L105,120 M85,170 L105,170 M85,220 L105,220"
+            android:strokeWidth="5"
+            android:strokeColor="#FFFFFF"
+            android:strokeLineCap="round"
+            android:fillColor="@android:color/transparent" />
+    </group>
+</vector>

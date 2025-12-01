@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/telemonitoreo_logo.xml -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="120dp"
+    android:height="120dp"
+    android:viewportWidth="800"
+    android:viewportHeight="800">
+
+    <!-- Línea de ECG -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M120,480 L200,480 L260,320 L360,640 L420,400 L480,520 L520,480"
+        android:strokeWidth="30"
+        android:strokeColor="#20B2AA"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Cruz médica -->
+    <path
+        android:fillColor="#40E0D0"
+        android:pathData="M620,400 L620,320 L700,320 L700,400 L780,400 L780,480 L700,480 L700,560 L620,560 L620,480 L540,480 L540,400 Z" />
+
+    <!-- Señal WiFi (arcos) -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M470,270 C520,230 580,230 630,270"
+        android:strokeWidth="24"
+        android:strokeColor="#20B2AA"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M500,310 C530,280 570,280 600,310"
+        android:strokeWidth="20"
+        android:strokeColor="#20B2AA"
+        android:strokeLineCap="round" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M530,350 C540,340 560,340 570,350"
+        android:strokeWidth="16"
+        android:strokeColor="#20B2AA"
+        android:strokeLineCap="round" />
+</vector>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Configuración especial para dominios de desarrollo -->
+    <domain-config cleartextTrafficPermitted="true">
+        <!-- Emulador Android -->
+        <domain includeSubdomains="true">10.0.2.2</domain>
+
+        <!-- IP local para pruebas en dispositivos físicos -->
+        <domain includeSubdomains="true">192.168.1.8</domain>
+
+        <!-- VPS en la nube -->
+        <domain includeSubdomains="true">198.46.189.221</domain>
+
+        <domain includeSubdomains="true">localhost</domain>
+
+        <!-- Certificados para HTTPS -->
+        <trust-anchors>
+            <certificates src="user" />
+            <certificates src="system" />
+        </trust-anchors>
+    </domain-config>
+
+    <!-- Configuración para modo debug -->
+    <debug-overrides>
+        <trust-anchors>
+
+            <certificates src="user" />
+            <certificates src="system" />
+        </trust-anchors>
+    </debug-overrides>
+
+    <!-- Configuración base para todas las demás conexiones -->
+    <base-config cleartextTrafficPermitted="false">
+        <trust-anchors>
+
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>

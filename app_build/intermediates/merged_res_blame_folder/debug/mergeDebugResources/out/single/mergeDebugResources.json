@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-xxxhdpi_ic_launcher01_foreground.webp.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-xxxhdpi/ic_launcher01_foreground.webp"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-xxxhdpi_ic_launcher01_round.webp.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-xxxhdpi/ic_launcher01_round.webp"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/drawable_telemonitoreologo_multi.xml.flat",
+        "source": "com.example.telephases.app-main-65:/drawable/telemonitoreologo_multi.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-xhdpi_ic_launcher01_foreground.webp.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-xhdpi/ic_launcher01_foreground.webp"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-anydpi-v26_ic_launcher01_round.xml.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-anydpi-v26/ic_launcher01_round.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/drawable-nodpi_ic_tele_horizontal.png.flat",
+        "source": "com.example.telephases.app-main-65:/drawable-nodpi/ic_tele_horizontal.png"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-hdpi_ic_launcher01_round.webp.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-hdpi/ic_launcher01_round.webp"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-mdpi_ic_launcher01_round.webp.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-mdpi/ic_launcher01_round.webp"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/xml_backup_rules.xml.flat",
+        "source": "com.example.telephases.app-main-65:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/drawable_temperatura.xml.flat",
+        "source": "com.example.telephases.app-main-65:/drawable/temperatura.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/drawable_pulso.xml.flat",
+        "source": "com.example.telephases.app-main-65:/drawable/pulso.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/drawable_telemonitoreologo_multimini.xml.flat",
+        "source": "com.example.telephases.app-main-65:/drawable/telemonitoreologo_multimini.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/drawable_audio.xml.flat",
+        "source": "com.example.telephases.app-main-65:/drawable/audio.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/drawable_ic_intelicare_logo.xml.flat",
+        "source": "com.example.telephases.app-main-65:/drawable/ic_intelicare_logo.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/drawable_temperatura_instruccion.xml.flat",
+        "source": "com.example.telephases.app-main-65:/drawable/temperatura_instruccion.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/drawable_oxigeno.xml.flat",
+        "source": "com.example.telephases.app-main-65:/drawable/oxigeno.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/xml_network_security_config.xml.flat",
+        "source": "com.example.telephases.app-main-65:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-xxxhdpi_ic_launcher01.webp.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-xxxhdpi/ic_launcher01.webp"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/drawable_ecg.xml.flat",
+        "source": "com.example.telephases.app-main-65:/drawable/ecg.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-xxhdpi_ic_launcher01_foreground.webp.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-xxhdpi/ic_launcher01_foreground.webp"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-xxhdpi_ic_launcher01_round.webp.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-xxhdpi/ic_launcher01_round.webp"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.telephases.app-main-65:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/drawable_presion_arterial.xml.flat",
+        "source": "com.example.telephases.app-main-65:/drawable/presion_arterial.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/drawable_telemonitoreo_logo.xml.flat",
+        "source": "com.example.telephases.app-main-65:/drawable/telemonitoreo_logo.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/drawable_glucosa.xml.flat",
+        "source": "com.example.telephases.app-main-65:/drawable/glucosa.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/drawable_brazalete.xml.flat",
+        "source": "com.example.telephases.app-main-65:/drawable/brazalete.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/drawable_informacion.xml.flat",
+        "source": "com.example.telephases.app-main-65:/drawable/informacion.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-xhdpi_ic_launcher01_round.webp.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-xhdpi/ic_launcher01_round.webp"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-hdpi_ic_launcher01.webp.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-hdpi/ic_launcher01.webp"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/drawable-nodpi_ic_tele_vertical.png.flat",
+        "source": "com.example.telephases.app-main-65:/drawable-nodpi/ic_tele_vertical.png"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.telephases.app-main-65:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-xxhdpi_ic_launcher01.webp.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-xxhdpi/ic_launcher01.webp"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.telephases.app-main-65:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-mdpi_ic_launcher01_foreground.webp.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-mdpi/ic_launcher01_foreground.webp"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-xhdpi_ic_launcher01.webp.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-xhdpi/ic_launcher01.webp"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/drawable_vista.xml.flat",
+        "source": "com.example.telephases.app-main-65:/drawable/vista.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-anydpi-v26_ic_launcher01.xml.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-anydpi-v26/ic_launcher01.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/drawable_inicio.xml.flat",
+        "source": "com.example.telephases.app-main-65:/drawable/inicio.xml"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-mdpi_ic_launcher01.webp.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-mdpi/ic_launcher01.webp"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/drawable_intelicare_logo.png.flat",
+        "source": "com.example.telephases.app-main-65:/drawable/intelicare_logo.png"
+    },
+    {
+        "merged": "com.example.telephases.app-debug-70:/mipmap-hdpi_ic_launcher01_foreground.webp.flat",
+        "source": "com.example.telephases.app-main-65:/mipmap-hdpi/ic_launcher01_foreground.webp"
+    }
+]

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Cabeza -->
+    <path
+        android:fillColor="#FFDBAC"
+        android:pathData="M100,40 A30,30 0 0,1 130,70 L130,90 A30,30 0 0,1 70,90 L70,70 A30,30 0 0,1 100,40 Z"/>
+
+    <!-- Cuerpo -->
+    <path
+        android:fillColor="#4A90E2"
+        android:pathData="M80,90 L80,140 L120,140 L120,90 Z"/>
+
+    <!-- Brazo levantado -->
+    <path
+        android:fillColor="#FFDBAC"
+        android:pathData="M120,100 L140,80 L145,85 L125,105 Z"/>
+
+    <!-- Termómetro -->
+    <group>
+        <!-- Cuerpo del termómetro -->
+        <path
+            android:fillColor="#E0E0E0"
+            android:pathData="M135,70 L155,50 A5,5 0 0,1 160,50 L160,55 A5,5 0 0,1 160,60 L140,80 Z"/>
+
+        <!-- Punta del termómetro -->
+        <path
+            android:fillColor="#20D0C2"
+            android:pathData="M155,50 L160,45 L165,50 L160,55 Z"/>
+    </group>
+
+    <!-- Indicador de temperatura en la frente -->
+    <path
+        android:fillColor="#FF6B6B"
+        android:strokeColor="#FF6B6B"
+        android:strokeWidth="2"
+        android:pathData="M90,60 L110,60"/>
+
+</vector>

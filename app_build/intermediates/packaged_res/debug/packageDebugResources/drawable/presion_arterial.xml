@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="300"
+    android:viewportHeight="300">
+
+    <group android:translateX="20" android:translateY="30">
+        <!-- Corazón -->
+        <path
+            android:pathData="M120,230 L40,150 C15,125 15,85 40,60 C65,35 105,35 130,60 L120,70 L110,60 C85,35 45,35 20,60 C-5,85 -5,125 20,150 L120,230 Z"
+            android:fillColor="#20D0C2"
+            android:strokeWidth="2"
+            android:strokeColor="#FFFFFF" />
+
+        <!-- Línea ECG dentro del corazón -->
+        <path
+            android:pathData="M50,140 L70,140 L80,110 L95,170 L110,125 L120,140 L140,140"
+            android:strokeWidth="6"
+            android:strokeColor="#FFFFFF"
+            android:fillColor="@android:color/transparent"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+
+        <!-- Medidor de presión -->
+        <path
+            android:pathData="M200,100 m-40,0 a40,40 0,1 1,80 0 a40,40 0,1 1,-80 0"
+            android:fillColor="#FFFFFF"
+            android:strokeWidth="8"
+            android:strokeColor="#20D0C2" />
+
+        <!-- Aguja del medidor -->
+        <path
+            android:pathData="M200,100 L200,70"
+            android:strokeWidth="6"
+            android:strokeColor="#20D0C2"
+            android:strokeLineCap="round" />
+        <path
+            android:pathData="M200,100 m-5,0 a5,5 0,1 1,10 0 a5,5 0,1 1,-10 0"
+            android:fillColor="#20D0C2" />
+
+        <!-- Marcas en el medidor -->
+        <path
+            android:pathData="M200,70 L200,60"
+            android:strokeWidth="4"
+            android:strokeColor="#20D0C2"
+            android:strokeLineCap="round" />
+        <path
+            android:pathData="M200,140 L200,130"
+            android:strokeWidth="4"
+            android:strokeColor="#20D0C2"
+            android:strokeLineCap="round" />
+        <path
+            android:pathData="M170,100 L160,100"
+            android:strokeWidth="4"
+            android:strokeColor="#20D0C2"
+            android:strokeLineCap="round" />
+        <path
+            android:pathData="M240,100 L230,100"
+            android:strokeWidth="4"
+            android:strokeColor="#20D0C2"
+            android:strokeLineCap="round" />
+
+        <!-- Tubo que conecta el corazón con el medidor -->
+        <path
+            android:pathData="M130,160 C150,160 160,160 170,140 L170,110"
+            android:strokeWidth="10"
+            android:strokeColor="#20D0C2"
+            android:fillColor="@android:color/transparent"
+            android:strokeLineCap="round"
+            android:strokeLineJoin="round" />
+    </group>
+</vector>
